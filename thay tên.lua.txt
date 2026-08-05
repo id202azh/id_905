@@ -1315,7 +1315,7 @@ end
 
 local redzlib = loadstring(game:HttpGet("https://raw.githubusercontent.com/id202azh/id_905/refs/heads/main/raw%20(1).txt"))()
 local Window = redzlib:MakeWindow({
-    Title = "test",
+    Title = "nyann os",
     SubTitle = "by real nyann",
     SaveFolder = "nyannnaiget.json"
 })
@@ -1349,13 +1349,20 @@ local Tabs = {
 Tabs.Info:AddSection("Information")
 
 Tabs.Info:AddDiscordInvite({
-	Title = "OK Hub | Community",
-	Description = "A community for OK Hub Users - official scripts, updates, and suport in one place.",
-	Banner = "rbxassetid://127632820302449", 
-	Logo = "rbxassetid://127632820302449",
+	Title = "nyann os| Community",
+	Description = "A community for nyann os Users - official scripts, updates, and suport in one place.",
+	Banner = "rbxassetid://94678517792779", 
+	Logo = "rbxassetid://94678517792779",
 	Invite = "https://discord.gg/HJbtKcHAw",
 	Members = 36, 
 	Online = 67, 
+})
+Tabs.Info:AddFacebookInvite({
+	Title = "Truong Dat",
+	Description = "",
+	Banner = "rbxassetid://94678517792779", 
+	Logo = "rbxassetid://94678517792779",
+	Invite = "https://www.facebook.com/share/19NnSkvgTB/",
 })
 Tabs.Info:AddSection("Status Server")
 
