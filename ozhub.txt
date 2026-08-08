@@ -97,7 +97,7 @@ local function NotificacaoNightMystic(titulo, mensagem)
     end
 end
 
-NotificacaoNightMystic("Netro hub", "Script carregado com sucesso!")
+NotificacaoNightMystic("oz hub", "Script carregado com sucesso!")
 
 -- ========================================
 -- SAVE SYSTEM (Optimized)
@@ -2547,7 +2547,7 @@ local credits = Discord:AddParagraph({
     Title = "Credits For Someone Peoples",
     Desc = ""
 })
-credits:SetDesc("Netro")
+credits:SetDesc("oz")
 
 Shop:AddSection("Fighting Shop")
 Shop:AddButton({
