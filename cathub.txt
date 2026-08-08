@@ -956,7 +956,7 @@ CreditsText.AnchorPoint = Vector2.new(0.5, 0.5)
 CreditsText.Position = UDim2.new(0.5, 15, 0.5, 0)
 CreditsText.Size = UDim2.new(1, -60, 1, 0)
 CreditsText.BackgroundTransparency = 1
-CreditsText.Text = "By zerozxk"
+CreditsText.Text = "By real_@nyann"
 CreditsText.TextColor3 = Color3.fromRGB(255, 255, 255)
 CreditsText.TextSize = 18
 CreditsText.Font = Enum.Font.GothamBold
@@ -4491,9 +4491,9 @@ local DiscordTab = Window:CreateTab({
 })
 
 Window:AddInviteDiscord(DiscordTab, {
-    Name = "Cat Hub",
+    Name = "nyann",
     Link = "https://discord.gg/SenZqyaRvr",
-    Icon = "rbxassetid://138770682187300",
+    Icon = "rbxassetid://94678517792779",
     ButtonText = "Join"
 })
 
@@ -6476,8 +6476,8 @@ Window:AddToggle(ShopTab, {
 })
 
 Window:Notify({
-    Title = "Script Loaded",
-    Body = "Cat Hub loaded successfully!",
-    Icon = {"rbxassetid://92677765459164"},
+    Title = "nyann os",
+    Body = "nyann os loaded successfully!",
+    Icon = {"rbxassetid://94678517792779"},
     Duration = 5
 })
